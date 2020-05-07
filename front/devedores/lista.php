@@ -1,4 +1,4 @@
-<?php require_once BASE_DIR . '\front\header.php'; ?>
+<?php require_once BASE_DIR . DS . 'front' . DS . 'header.php'; ?>
 
 <div class="row">
 	<div class="col-md-10">
@@ -59,4 +59,4 @@
 	</div>
 </div>
 
-<?php require_once BASE_DIR . '\front\footer.php'; ?>
+<?php require_once BASE_DIR . DS . 'front' . DS . 'footer.php'; ?>
